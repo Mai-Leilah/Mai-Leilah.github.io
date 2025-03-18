@@ -1,5 +1,5 @@
 body {
-background: #c08d0c;
+background: #dea515e8;
 color: rgb(3, 41, 18);
 }
 
@@ -10,19 +10,25 @@ color: rgb(3, 41, 18);
 
 /*navigation menu*/
 nav {
-    background: rgb #d61e1e;
+    background: 
+    rgb #121214;
+    margin: 0 auto;
+    display: flex;
+    padding: 10px;
 }
 
 h1 {
     display: flex;
-    align-items: center;
+    align-items: 
+    center;
     color: white;
     flex: 1;
     margin: 0;
 }
 
 #nav-ul {
-    list-style-type: none;
+    list-style-type: 
+    none;
     margin: 0;
     padding: 0;
     display: flex;
@@ -34,12 +40,13 @@ h1 {
 }
 
 a {
-    color: #cd7e25;
+    text-decoration: none;
+    color: #161218;
 }
 
 /*main container area beneath menu */
 main {
-    background: rgb(245, 238, 219);
+    background: rgba(236, 225, 187, 0.797);
     display: flex;
     margin-top: 20px;
 }
