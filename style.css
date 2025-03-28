@@ -100,7 +100,7 @@ h2, h3 {
     color: #454545;
 }
 /* responsive web design */
-@media screen and (min-width: 120px) and (max width: 1080PX) {
+@media screen and (min-width: 120px) and (max width: 1080px) {
     main {
         height: 100ch;
         zoom: 1.5;
